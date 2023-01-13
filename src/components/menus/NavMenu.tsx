@@ -1,4 +1,4 @@
-function Navmenu() {
+function NavMenu() {
   return (
     <nav
       aria-label="Site Nav"
@@ -38,4 +38,4 @@ function Navmenu() {
   );
 }
 
-export default Navmenu;
+export default NavMenu;
