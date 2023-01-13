@@ -14,7 +14,7 @@ function FeaturedSection() {
           </p>
         </header>
 
-        <ul className="grid grid-rows-4 gap-4 mt-8">
+        <ul className="grid grid-cols-1 lg:grid-cols-4 gap-4 mt-8">
           <li>
             <a href="#" className="relative block group">
               <img
